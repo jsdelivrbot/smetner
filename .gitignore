@@ -1,0 +1,6 @@
+# folder logs
+logs/
+.idea/
+
+# txt-files
+docs/*.rtf
