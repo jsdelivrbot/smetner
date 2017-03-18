@@ -1,5 +1,4 @@
-# smetner
-smetner
+# Guide
 
 ## Installation of modules 
 ```npm install```
